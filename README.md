@@ -29,6 +29,5 @@ The default text is ''Edit this!'', size is the layout_width/height.
         app:layout_constraintVertical_bias="0.626" />
 ```
 
-
 ![](Screenshot_20230418_102033.png)
 
